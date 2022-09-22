@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tarun vashishtha
+- 👋 Hi, I’m Tarun Vashishtha
 - 👀 I’m interested in Software Development and DevOps
 - 🌱 I’m currently learning Front End Development , DevOps and improving my problem solving skills through DSA
 - 💞️ I’m looking to get a Job that matches my skills.
