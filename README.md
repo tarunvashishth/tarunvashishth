@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Tarun Vashishtha
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Front End Development improving my problem solving skills through DSA
-- 💞️ I’m looking to get a Job that matches my skills.
+- 👀 I’m a frontend developer.
 - 📫 How to reach me https://www.linkedin.com/in/tarun-vashishth/
 
 <!---
