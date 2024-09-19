@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Tarun Vashishtha
-- 👀 I’m a frontend developer.
 - 📫 How to reach me https://www.linkedin.com/in/tarun-vashishth/
 
 <!---
