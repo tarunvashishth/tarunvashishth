@@ -1,4 +1,5 @@
-- 👋 Hi, I'm Tarun Vashishtha. I have around three years of experience working as a software engineer, currently looking for a job as an immediate joiner.
+- 👋 Hi, I'm Tarun Vashishtha. I have around 3 years of experience working as a software engineer, currently looking for a job as an immediate joiner.
+- Skills: HTML, CSS, JavaScript, React.js, Java, MySql, Node.js
 - 📫 Portfolio Website : https://tarun-vashishtha.vercel.app/
 - 📫 How to reach me https://www.linkedin.com/in/tarun-vashishth/
 - Email : tarun.vashishth093@gmail.com
