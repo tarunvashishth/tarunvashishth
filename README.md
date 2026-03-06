@@ -3,7 +3,7 @@
 - 📫 Portfolio Website : https://tarun-vashishtha.vercel.app/
 - 📫 How to reach me https://www.linkedin.com/in/tarun-vashishth/
 - Email : tarun.vashishth093@gmail.com
-- Mon. : +919673228114
+- Mob No. : +919673228114
 
 
 <!---
