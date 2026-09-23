@@ -1,13 +1,24 @@
-- 👋 Hi, I'm Tarun Vashishtha. I have around 3 years of experience working as a software engineer, currently looking for a job as an immediate joiner.
-- Skills: HTML, CSS, JavaScript, React.js, Java, MySql, Node.js
-- 📫 Portfolio Website : https://tarun-vashishtha.vercel.app/
-- 📫 How to reach me https://www.linkedin.com/in/tarun-vashishth/
-- Email : tarun.vashishth093@gmail.com
-- Mob No. : +919673228114
+### Hi, I'm Tarun Vashishtha 👋
 
+**Full-Stack AI Engineer** — I build production web apps and LLM-powered agent systems.
 
-<!---
-tarunvashishth/tarunvashishth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Building full-stack products and AI agents at **TrubotAI**
+- 🧠 Focus: RAG pipelines, LangChain/LangGraph agents, and applied LLM engineering
+- 💻 Full-stack: React, TypeScript, Node.js, Python
+- 📈 4+ years across full-stack and AI engineering (previously Newgen Software, FarEye)
+- 🌱 Learning: building AI agents end-to-end and studying where they fail
+- 📫 Portfolio: [tarun-vashishtha.best](https://www.tarun-vashishtha.best/)
+- 💼 LinkedIn: [linkedin.com/in/tarun-vashishth](https://www.linkedin.com/in/tarun-vashishth/)
+- ✉️ Email: [tarun.vashishth093@gmail.com](mailto:tarun.vashishth093@gmail.com)
+
+#### Tech Stack
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=langchain)
+![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
 [![@tarunv's Holopin board](https://holopin.me/tarunv)](https://holopin.io/@tarunv)
