@@ -2,11 +2,11 @@
 
 **Full-Stack AI Engineer** — I build production web apps and LLM-powered agent systems.
 
-- 🔭 Building full-stack products and AI agents at **TrubotAI**
-- 🧠 Focus: RAG pipelines, LangChain/LangGraph agents, and applied LLM engineering
-- 💻 Full-stack: React, TypeScript, Node.js, Python
-- 📈 4+ years across full-stack and AI engineering (previously Newgen Software, FarEye)
-- 🌱 Learning: building AI agents end-to-end and studying where they fail
+- 🔭 Building full-stack products and AI agents.
+- 🧠 Focus: RAG pipelines, LangChain/LangGraph agents, and applied LLM engineering.
+- 💻 Full-stack: React, TypeScript, Node.js, Python.
+- 📈 4+ years across full-stack and AI engineering.
+- 🌱 Learning: building AI agents end-to-end and studying where they fail.
 - 📫 Portfolio: [tarun-vashishtha.best](https://www.tarun-vashishtha.best/)
 - 💼 LinkedIn: [linkedin.com/in/tarun-vashishth](https://www.linkedin.com/in/tarun-vashishth/)
 - ✉️ Email: [tarun.vashishth093@gmail.com](mailto:tarun.vashishth093@gmail.com)
